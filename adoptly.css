@@ -1,8 +1,11 @@
 ul li{
 	display: inline;
-	padding-left: 25px;
+	padding-right: 12.5px;
+	padding-left: 12.5px;
+}
+ul li a{
+	color: white;
 }
 ul{
 	text-align: center;
-
 }
