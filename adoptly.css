@@ -15,3 +15,15 @@ ul li a{
 ul{
 	text-align: center;
 }
+ul li a:hover{
+	 padding:14px;padding-left:20px; padding-right:20px; background-color:#B32C49;
+}
+ul li a.visited{
+	font-size:19px; padding:14px;padding-left:20px; padding-right:20px; background-color:#B32C49;
+}
+.go{
+	font-weight:100; border:1px solid; border-color:#286984; color:#286984; padding:2px;padding-left:42px;padding-right:42px;
+}
+.go:hover{
+	font-weight:100; border:1px solid; border-color:#286984; background-color:#286984; color: white; padding:2px;padding-left:42px;padding-right:42px;
+}
