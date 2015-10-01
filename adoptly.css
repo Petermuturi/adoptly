@@ -53,3 +53,9 @@ ul li a.visited{
 	background-repeat: no-repeat;
 	background-position: center;
 }
+.h3{
+	color:#B32C49; font-weight:300;padding-top:50px; text-align:center; padding-bottom:250px;
+}
+.h3s{
+	color:#B32C49; font-weight:300;padding-top:100px; text-align:center; padding-bottom:150px;
+}
