@@ -28,6 +28,15 @@ ul li a.visited{
 	 padding-right:20px; 
 	 background-color:#B32C49;
 }
+.li{
+	float:right; list-style:none;padding-top:12px;padding-right:400px;
+}
+.a{
+	color:white;
+}
+.a:hover{
+ text-decoration: underline;
+}
 .go{
 	font-weight:100; 
 	border:1px solid; 
@@ -53,9 +62,9 @@ ul li a.visited{
 	background-repeat: no-repeat;
 	background-position: center;
 }
-.h3{
-	color:#B32C49; font-weight:300;padding-top:50px; text-align:center; padding-bottom:250px;
+.head{
+	font-size:40px; font-weight:300;
 }
 .h3s{
-	color:#B32C49; font-weight:300;padding-top:100px; text-align:center; padding-bottom:150px;
+	color:white; font-weight:300;padding-top:100px; text-align:center; padding-bottom:150px;
 }
