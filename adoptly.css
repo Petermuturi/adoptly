@@ -71,6 +71,8 @@ ul li a.visited{
 .dgs:hover{
 	width: 400px;
 	box-shadow: 20px 20px 20px #286984;
+	opacity: 0.6;
+	background-color: #286984;
 }
 .blg{
 	background-image: url(img/blg.jpg);
