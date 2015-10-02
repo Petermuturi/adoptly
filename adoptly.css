@@ -68,6 +68,21 @@ ul li a.visited{
 .h3s{
 	color:white; font-weight:300;padding-top:100px; text-align:center; padding-bottom:150px;
 }
-.dgs{
+.dgs:hover{
+	width: 400px;
+	box-shadow: 20px 20px 20px #286984;
+}
+.blg{
+	background-image: url(img/blg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.hp{
 	
+	font-size: 70px;
+	font-weight: 300;
+	color: white;
+	padding-top: 50px;
+	padding-bottom: 100px;
 }
